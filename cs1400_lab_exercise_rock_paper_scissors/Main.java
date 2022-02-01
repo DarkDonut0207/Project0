@@ -22,6 +22,7 @@ public class Main {
         int P2Wins = 0;
         int ties = 0;
         char game = 'n';
+        System.out.println("Coded by: Drake Fafard");
         do {
             System.out.println("---Rock, Paper, Scissors---");
             System.out.println("Paper covers Rock, Rock Smashes Scissors, Scissors cuts Paper");
